@@ -1,6 +1,6 @@
 module github.com/nyancrimew/cdav2ical
 
-go 1.25.4
+go 1.24.9
 
 require (
 	github.com/emersion/go-ical v0.0.0-20240127095438-fc1c9d8fb2b6
